@@ -1,0 +1,10 @@
+.App form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 40vh;
+}
+
+.uploaded-image {
+    width: 40%;
+}
